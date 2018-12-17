@@ -22,3 +22,10 @@ body {
   margin-right: 4em;
   display: inline-block;
 }
+
+#quote {
+  color: #fff;
+  text-align: right; 
+  padding-right: 1em; 
+  background-color: #232425; 
+}

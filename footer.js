@@ -29,22 +29,30 @@ var Footer = function (_React$Component) {
         "div",
         { style: middle },
         React.createElement(
-          "h4",
+          "h5",
           null,
-          "CORPORATE OFFICE:"
+          React.createElement(
+            "b",
+            null,
+            React.createElement(
+              "em",
+              null,
+              "CORPORATE OFFICE:"
+            )
+          )
         ),
         React.createElement(
-          "p",
+          "h6",
           null,
           "158 Oba Olagbegi Avenue, Old Bodija, Off Oshuntokun Street, Ibadan Oyo State"
         ),
         React.createElement(
-          "p",
+          "h6",
           null,
           "Tel: 08023441634, 08033237874 | Email: relationshippersonified@gmail.com"
         ),
         React.createElement(
-          "p",
+          "h6",
           null,
           "Website: www.ipdcrm.org"
         )

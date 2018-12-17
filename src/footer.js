@@ -9,10 +9,10 @@ class Footer extends React.Component {
   render() {
     return(
       <div style={middle}>
-        <h4>CORPORATE OFFICE:</h4>
-        <p>158 Oba Olagbegi Avenue, Old Bodija, Off Oshuntokun Street, Ibadan Oyo State</p>
-        <p>Tel: 08023441634, 08033237874 | Email: relationshippersonified@gmail.com</p>
-        <p>Website: www.ipdcrm.org</p>
+        <h5>CORPORATE OFFICE:</h5>
+        <h6>158 Oba Olagbegi Avenue, Old Bodija, Off Oshuntokun Street, Ibadan Oyo State</h6>
+        <h6>Tel: 08023441634, 08033237874 | Email: relationshippersonified@gmail.com</h6>
+        <h6>Website: www.ipdcrm.org</h6>
       </div>
     );
   }

@@ -28,6 +28,7 @@ var Footer = function (_React$Component) {
       return React.createElement(
         "div",
         { style: middle },
+        React.createElement("hr", null),
         React.createElement(
           "h5",
           null,

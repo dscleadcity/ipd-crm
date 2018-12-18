@@ -29,3 +29,7 @@ body {
   padding-right: 1em; 
   background-color: #232425; 
 }
+
+button {
+  padding: 2em;
+}

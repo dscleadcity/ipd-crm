@@ -33,3 +33,8 @@ body {
 button {
   padding: 2em;
 }
+
+.entry {
+  color: #0c5294;
+  text-decoration: overline underline;
+}

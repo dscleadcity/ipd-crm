@@ -2,7 +2,7 @@
 
 const middle = {
   textAlign: "center",
-  margin: "4em 0 2.5em 0"
+  margin: "4em 0.5em 2.5em 0.5em"
 }
 
 class Footer extends React.Component {

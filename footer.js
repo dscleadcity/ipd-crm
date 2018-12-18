@@ -10,7 +10,7 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 var middle = {
   textAlign: "center",
-  margin: "4em 0 2.5em 0"
+  margin: "4em 0.5em 2.5em 0.5em"
 };
 
 var Footer = function (_React$Component) {

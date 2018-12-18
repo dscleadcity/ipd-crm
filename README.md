@@ -5,4 +5,4 @@
 
 - - -
 
-## <span align="center">[link to website](https://ipd-crm.netlify.com)</span>
+## [link to website](https://ipd-crm.netlify.com)
